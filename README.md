@@ -32,7 +32,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=z0l0git&show_icons=true&theme=radical&hide=contribs)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=z0l0&gitshow_icons=true&theme=radical))
 
 
-
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=z0l0git&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z0l0git&theme=radical&layout=compact" />
+</div>
 
 
 
