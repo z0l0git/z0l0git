@@ -18,7 +18,7 @@
   <img align="left" alt="icon" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
   <img align="left" alt="icon" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 </div>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=z0l0git)](https://github.com/anuraghazra/github-readme-stats
 
 
 
