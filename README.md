@@ -1,9 +1,6 @@
 ### 🎱Zolo GitHub✧
 
-
-
-
-
+---
 
 ### Languages and Tools
 <div style="margin-bottom: 50px;">
@@ -21,14 +18,9 @@
   <img align="left" alt="icon" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 </div>
 
+---
 
-
-
-
-
-
-
-### Stat
+### Stats
 
 <div style="display: flex; flex-direction: row; justify-content: center;" align="center" dir="auto" >
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=z0l0git&show_icons=true&theme=radical&hide=contribs" />
