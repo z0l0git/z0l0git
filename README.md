@@ -1,9 +1,9 @@
 <h1 align="center">
   🎱Zolo GitHub✧
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJ3aW1mYmw5OXNsMHpuZWl1OTJ5M3A4MGZ2YWRjczRscmhxbjJlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J9RFoDzCDrkqtEc/giphy.gif" width="30px"/>
+  <img src="https://github.com/z0l0git/z0l0git/assets/143938159/fe3860e9-608d-4c17-b7c7-93a26474a9f1" width="30px"/>
 </h1>
 
----
+
 
 ### 🔧Languages and Tools🛠️
 <div align="center">
