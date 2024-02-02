@@ -6,7 +6,7 @@
 
 
 ### Languages and Tools
-<div style="background-color:white">
+<div style="margin-bottom: 50px;">
   <img align="left" alt="icon" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="left" alt="icon" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img align="left" alt="icon" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
