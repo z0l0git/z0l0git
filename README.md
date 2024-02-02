@@ -20,6 +20,8 @@
 
 <div align="center"> ★ ★ ★ ★ ★ </div>
 
+---
+
 ### Stats
 
 <div style="display: flex; flex-direction: row; justify-content: center;" align="center" dir="auto" >
