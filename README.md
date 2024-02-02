@@ -30,7 +30,7 @@
 
 ### Stat
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row; justify-content: center;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=z0l0git&show_icons=true&theme=radical" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z0l0git&theme=radical&layout=compact" />
 </div>
