@@ -2,7 +2,7 @@
 
 ---
 
-### Languages and Tools
+### 🔧Languages and Tools🛠️
 <div align="center">
   <img align="left" alt="icon" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="left" alt="icon" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
@@ -22,7 +22,7 @@
 
 ---
 
-### Stats
+### 📈Stats📊
 
 <div style="display: flex; flex-direction: row; justify-content: center;" align="center" dir="auto" >
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=z0l0git&show_icons=true&theme=radical&hide=contribs" />
