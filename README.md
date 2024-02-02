@@ -29,7 +29,7 @@
 
 
 ### Stat
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=z0l0git&show_icons=true&theme=radical)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=z0l0&gitshow_icons=true&theme=radical))
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=z0l0git&show_icons=true&theme=radical&hide=contribs)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=z0l0&gitshow_icons=true&theme=radical))
 
 
 
