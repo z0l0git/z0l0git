@@ -43,11 +43,7 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=z0l0git&show_icons=true&locale=en&layout=compact" alt="z0l0git" /></p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=z0l0git&" alt="z0l0git" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=z0l0git&theme=radical" alt="z0l0git" /></p>
 
 
 
