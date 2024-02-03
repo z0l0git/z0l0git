@@ -1,5 +1,5 @@
 <h1 align="center" markdown="3" style="border-bottom-width: 0px">
-  🎱Zolo GitHub✧
+  ✧Zolo GitHub✧
 </h1>
 <h1 align="center">  <img src="https://github.com/z0l0git/z0l0git/assets/143938159/fe3860e9-608d-4c17-b7c7-93a26474a9f1" width="60px"/></h1>
 
