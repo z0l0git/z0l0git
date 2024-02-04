@@ -38,12 +38,11 @@
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=z0l0git&show_icons=true&theme=radical" />
   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z0l0git&theme=radical&layout=donut" />
 </div>
-
-
+--- 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=z0l0git&label=Profile%20views&color=0e75b6&style=for-the-badge&color=d83b7d&abbreviated=true" alt="z0l0git" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=z0l0git" alt="z0l0git" /></a> </p>
-
+---
 <h1 align="center" markdown="2" >🌐Socials and Platforms🌐</h1>
 
 <p align="center">
@@ -54,7 +53,7 @@
 <a href="https://instagram.com/zolo.zlbyr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zolo.zlbyr" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/350358034158977027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="350358034158977027" height="30" width="40" /></a>
 </p>
-
+---
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=z0l0git&theme=radical" alt="z0l0git" /></p>
 
