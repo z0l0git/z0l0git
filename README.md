@@ -39,7 +39,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=z0l0git" alt="z0l0git" /></a> </p>
 
-<h3 align="center">Connect With Me</h3>
+### 🌐Socials and Platforms🌐
 <p align="center">
 <a href="https://codepen.io/z0l0git" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="z0l0git" height="30" width="40" /></a>
 <a href="https://dev.to/@z0l0dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@z0l0dev" height="30" width="40" /></a>
