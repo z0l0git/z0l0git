@@ -70,8 +70,12 @@
 <h1 align="center" markdown="1" style="border-bottom-width: 0px">
  🎯Plans📝
 </h1>
-# Create Project Documents to all the project I made
-# Make an actual Portfolio 
+
+### To Do List
+- 🔭 Create Project Documents
+- 🌱 Make a Portfolio website
+- 🤔 Learn new Technologies
+- ⚡ Program new things everyday
 
 
 
