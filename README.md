@@ -76,6 +76,7 @@
 - 🌱 Make a Portfolio website
 - 🤔 Learn new Technologies
 - ⚡ Program new things everyday
+- ☢️ Streak 69 soon
 
 
 
