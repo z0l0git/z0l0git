@@ -76,7 +76,6 @@
 - 🌱 Make a Portfolio website
 - 🤔 Learn new Technologies
 - ⚡ Program new things everyday
-- ☢️
 
 
 <!--
