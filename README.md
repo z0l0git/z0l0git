@@ -72,10 +72,7 @@
 </h1>
 
 ### To Do List
-- 🔭 Create Project Documents
-- 🌱 Make a Portfolio website
-- 🤔 Learn new Technologies
-- ⚡ Program new things everyday
+- Survive
 
 
 <!--
