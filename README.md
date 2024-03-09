@@ -72,7 +72,8 @@
 </h1>
 
 ### To Do List
-- Survive
+шэт
+
 
 
 <!--
