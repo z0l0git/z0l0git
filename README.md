@@ -27,9 +27,9 @@
   
 </div>
 
-<div align="center"> ★ ★ ★ ★ ★ </div>
+<h1 align="center"> ★ ★ ★ ★ ★ </h1>
 
----
+
 
 
 <h1 align="center" markdown="1" style="border-bottom-width: 0px">
