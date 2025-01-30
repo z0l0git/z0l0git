@@ -58,6 +58,7 @@
   <img src="https://profile-counter.glitch.me/z0l0git/count.svg?"  />
 </div>
 
+<div align="center">
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=z0l0git&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/z0l0git"
@@ -65,7 +66,7 @@
   height="300"
 />
 </a>
-
+</div>
 ###
 
 <div align="center">
