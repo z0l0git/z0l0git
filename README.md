@@ -67,12 +67,6 @@
   height="300"
 />
 </a>
-<img
-  src="https://render.gitanimals.org/farms/z0l0git"
-  width="600"
-  height="300"
-/>
-
 </div>
 
 ###
