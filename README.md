@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 💻 Tech Stack
+### 💻 Tech Stack 💻
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
@@ -42,14 +42,38 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=z0l0git&utm_content=farm">
   <img src="https://render.gitanimals.org/farms/z0l0git" width="600" height="300" />
 </a>
+<p>
 
+                   ##%%%%%%%%%%%##                
+                %%%%%%%%#*+*%%%%%%%%%             
+              %%%%%%%##*+**++#%@@@@%%%%           
+            %%%%%%%%%%%%%%%%%@@@@@@@@@%%%         
+       #%%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@@%         
+    %%%%%%%@@@%%#%%%%%%%%%%%@@@@@@@@@@@@@@        
+    #%%%%@@%%#+====+%%%%%%%%%@@@@@@@@@@@@@@       
+           #+------==+#*%%@@@@%@@@@@@@@@@@@       
+          #+-++==---=---==*#%@@@@@@@@@@@@@@@      
+          +:::---------==---=+*%%@@@@@@@@@@@      
+         *:::::::------====+***===%@@@@@@@@@      
+         *::::+*---:-----------====@@@@@@@@@      
+ %%%%%%%%%::::::--+*++++=--------=-#@@@@@@@@      
+%%@@%%@@%#-::::::-::---------------#@@@@@@@@      
+@@@@@@%+-:--::::::::::------------=%@@@@%@@@      
+@@@@#=--::::::--::-::------------=#@@@@@@@@       
+@@#--::::::::-------------------=%@@@@@@@@@       
+#---::::::::----------------====#@@@@@@@@@@@@     
+:::::::::::::----------------====%@@@@@@@@@@@@@   
+::::::::::::--------------------=+%@@@@@@@@@@@@@% 
+:::::::::::---:------------------==@@@@@@@@@@@@@@@
+:::::::::::---::-------------------+@@@@@@@@@@@@@@
+</p>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <div align="center">
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats 📊
 
 <img src="https://github-readme-stats.vercel.app/api?username=z0l0git&show_icons=true&theme=radical&custom_title=Status%20Window" height="200" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=z0l0git&layout=compact&langs_count=6&theme=radical" height="200" />
@@ -63,7 +87,7 @@
 
 <div align="center">
 
-### 🎵 Spotify Recently Played
+### 🎵 Spotify Recently Played 🎵
 
 <a href="https://open.spotify.com/user/k8kihskdh5sgbfpm25y9cvm0v">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=k8kihskdh5sgbfpm25y9cvm0v&count=7" alt="Spotify Recently Played" />
@@ -76,7 +100,7 @@
 
 <div align="center">
 
-### 🌐 Let's Connect
+### 🌐 Let's Connect 🌐
 
 <a href="https://www.youtube.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="YouTube" />
