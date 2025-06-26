@@ -55,7 +55,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=z0l0git&show_icons=true&theme=radical&custom_title=Status%20Window" height="200" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=z0l0git&layout=compact&langs_count=6&theme=radical" height="200" />
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://streak-stats.demolab.com?user=z0l0git&mode=daily&theme=radical" height="200" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=z0l0git&radius=16&theme=redical&area=true&custom_title=Contribution%20Graph" height="200" />
 </div>
