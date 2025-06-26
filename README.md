@@ -68,7 +68,7 @@
 <a href="https://open.spotify.com/user/k8kihskdh5sgbfpm25y9cvm0v">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=k8kihskdh5sgbfpm25y9cvm0v&count=7" alt="Spotify Recently Played" />
 </a>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnA5OXg4ZnkyZHh2eTVleWJrdHoycnExMmRvcDlmdDkyYnR5d3d3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/blSTtZehjAZ8I/giphy.gif" width="400" height="450" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnA5OXg4ZnkyZHh2eTVleWJrdHoycnExMmRvcDlmdDkyYnR5d3d3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/blSTtZehjAZ8I/giphy.gif" width="400" height="445" />
 
 </div>
 
