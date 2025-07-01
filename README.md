@@ -72,7 +72,6 @@
 
 <div align="center">
 
-### 🎵 Spotify Recently Played 🎵
 
 <a href="https://open.spotify.com/user/k8kihskdh5sgbfpm25y9cvm0v">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=k8kihskdh5sgbfpm25y9cvm0v&count=7" alt="Spotify Recently Played" />
